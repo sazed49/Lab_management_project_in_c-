@@ -1,0 +1,4 @@
+mac      apple     20       150000
+desktop   hp    10       80000
+
+chair	bengal 	30	 500

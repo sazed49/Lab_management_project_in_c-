@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1561527692 source:g:\coding\labmanagement\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<bits/stdc++.h>
+
